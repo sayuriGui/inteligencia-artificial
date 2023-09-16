@@ -71,11 +71,11 @@ Utiliza al menos 2 técnicas de preprocesamiento de acuerdo al problema como esc
             <td align="center">Si </td> 
         </tr>
         <tr>
-            <td>detecta correctamente el grado de varianza: bajo medio alto</td>
+            <td align="center">detecta correctamente el grado de varianza: bajo medio alto</td>
             <td align="center">Si</td> 
         </tr>
         <tr>
-            <td>explica el nivel de ajuste del modelo: underfitt fitt overfitt</td>
+            <td align="center">explica el nivel de ajuste del modelo: underfitt fitt overfitt</td>
             <td align="center">Si</td> 
         </tr>
         <tr>
@@ -84,12 +84,12 @@ Utiliza al menos 2 técnicas de preprocesamiento de acuerdo al problema como esc
         </tr>
         <tr>
             <td rowspan=2 align="center">SEG0403</td>
-            <td>Explica como la solución cumple leyes, normas y principios éticos, de la industria o el ambiente del reto.</td>
+            <td align="center">Explica como la solución cumple leyes, normas y principios éticos, de la industria o el ambiente del reto.</td>
             <td align="center">Si</td> 
             <td rowspan=2 align="center">Reto</td>
         </tr>
         <tr>
-            <td>Explica en su repositorio cual es la normatividad correspondiente del reto o socio formador.</td>
+            <td align="center">Explica en su repositorio cual es la normatividad correspondiente del reto o socio formador.</td>
             <td align="center">Si</td> 
         </tr>
     </tbody>
@@ -130,7 +130,7 @@ Utiliza al menos 2 técnicas de preprocesamiento de acuerdo al problema como esc
             <td align="center">Si </td> 
         </tr>
         <tr>
-            <td>Explica correctamente como funciona el modelo que utiliza y valida los supuestos del modelo.</td> <!-- Fila completamente vacía para la nueva fila -->
+            <td align="center">Explica correctamente como funciona el modelo que utiliza y valida los supuestos del modelo.</td> <!-- Fila completamente vacía para la nueva fila -->
             <td align="center">Si</td> 
         </tr>
     </tbody>
