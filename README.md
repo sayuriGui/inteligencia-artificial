@@ -35,48 +35,8 @@
 - [Actividad: Ajuste de redes neuronales](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Ajuste%20de%20redes%20neuronales) 
 - [Actividad: Análisis exploratorio con técnicas de agrupamiento ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/An%C3%A1lisis%20exploratorio%20con%20t%C3%A9cnicas%20de%20agrupamiento) 
 
+
 ## Evidencia 1. Portafolio de análisis
-<table>
-    <thead>
-        <tr>
-            <th>Evidencia</th>
-            <th>Subcompetencia</th>
-            <th>Indicador</th>
-            <th>se observa indicador en la evidencia: sí / no</th>
-            <th>Módulo Responsable de evaluar el rubro</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=5 align="center">Portafolio Implementación</td>
-            <td rowspan=2 align="center">SMA0401</td>
-            <td align="center">Implementa una técnica o algoritmo de aprendizaje máquina, sin uso de marco de trabajo o framework como regresiones, árboles, clusters, etc...</td>
-            <td align="center">Si</td> 
-            <td rowspan=2 align="center">2. Aprendizaje máquina (automático).</td>
-        </tr>
-        <tr>
-            <td align="center">Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...</td>
-            <td align="center">Si</td>
-        </tr>
-        <tr>
-            <td rowspan=3 align="center">SMA0101</td>
-            <td align="center">Construye un modelo manualmente a partir de un set de datos, seleccionando las variables a utilizar.</td>
-            <td align="center">Si</td> 
-            <td rowspan=3 align="center">1. Estadística para la ciencia de datos.</td>
-        </tr>
-        <tr>
-            <td align="center">Explica correctamente cada una de las variables seleccionadas en el modelo y su utilidad en el modelo.</td>
-            <td align="center">Si </td> 
-        </tr>
-        <tr>
-            <td>Explica correctamente como funciona el modelo que utiliza y valida los supuestos del modelo.</td> <!-- Fila completamente vacía para la nueva fila -->
-            <td align="center">Si</td> 
-        </tr>
-    </tbody>
-</table>
-
-
-## Evidencia 2. Portafolio de implementación
 <table>
     <thead>
         <tr>
@@ -130,6 +90,47 @@ Utiliza al menos 2 técnicas de preprocesamiento de acuerdo al problema como esc
         </tr>
         <tr>
             <td>Explica en su repositorio cual es la normatividad correspondiente del reto o socio formador.</td>
+            <td align="center">Si</td> 
+        </tr>
+    </tbody>
+</table>
+
+
+## Evidencia 2. Portafolio de implementación
+<table>
+    <thead>
+        <tr>
+            <th>Evidencia</th>
+            <th>Subcompetencia</th>
+            <th>Indicador</th>
+            <th>se observa indicador en la evidencia: sí / no</th>
+            <th>Módulo Responsable de evaluar el rubro</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5 align="center">Portafolio Implementación</td>
+            <td rowspan=2 align="center">SMA0401</td>
+            <td align="center">Implementa una técnica o algoritmo de aprendizaje máquina, sin uso de marco de trabajo o framework como regresiones, árboles, clusters, etc...</td>
+            <td align="center">Si</td> 
+            <td rowspan=2 align="center">2. Aprendizaje máquina (automático).</td>
+        </tr>
+        <tr>
+            <td align="center">Usa un marco de trabajo o framework para implementar una técnica o algoritmo de aprendizaje máquina como: regresiones, árboles, clusters, etc...</td>
+            <td align="center">Si</td>
+        </tr>
+        <tr>
+            <td rowspan=3 align="center">SMA0101</td>
+            <td align="center">Construye un modelo manualmente a partir de un set de datos, seleccionando las variables a utilizar.</td>
+            <td align="center">Si</td> 
+            <td rowspan=3 align="center">1. Estadística para la ciencia de datos.</td>
+        </tr>
+        <tr>
+            <td align="center">Explica correctamente cada una de las variables seleccionadas en el modelo y su utilidad en el modelo.</td>
+            <td align="center">Si </td> 
+        </tr>
+        <tr>
+            <td>Explica correctamente como funciona el modelo que utiliza y valida los supuestos del modelo.</td> <!-- Fila completamente vacía para la nueva fila -->
             <td align="center">Si</td> 
         </tr>
     </tbody>
