@@ -31,7 +31,7 @@
 
 ## Aprendizaje máquina (automático).
 - [Actividad: Problemas de regresión ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20regresi%C3%B3n)
-- [Actividad: Problemas de clasificación  ](https://https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20clasificaci%C3%B3n) 
+- [Actividad: Problemas de clasificación  ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20clasificaci%C3%B3n) 
 - [Actividad: Ajuste de redes neuronales](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Ajuste%20de%20redes%20neuronales) 
 - [Actividad: Análisis exploratorio con técnicas de agrupamiento ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/An%C3%A1lisis%20exploratorio%20con%20t%C3%A9cnicas%20de%20agrupamiento) 
 
