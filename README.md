@@ -16,14 +16,14 @@
 
 <div>
 <img width="80px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png"/>
-<img width="40px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png"/>
+<img width="45px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png"/>
 <img width="50px" height="50px" src="https://skillicons.dev/icons?i=py"/>
 </div>
 
 ## Estadística para la ciencia de datos.
 - [Actividad: Regresión Lineal 1 ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Estad%C3%ADstica%20para%20ciencia%20de%20datos/Regresi%C3%B3nLineal1)
 - [Actividad: Regresión Lineal 2 ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Estad%C3%ADstica%20para%20ciencia%20de%20datos/Regresi%C3%B3nLineal2) 
-- [Algoritmos de clasificación ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Estad%C3%ADstica%20para%20ciencia%20de%20datos/Algoritmos%20de%20clasificaci%C3%B3n) 
+- [Actividad: Algoritmos de clasificación ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Estad%C3%ADstica%20para%20ciencia%20de%20datos/Algoritmos%20de%20clasificaci%C3%B3n) 
 - [Actividad: estimación de parámetros ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Estad%C3%ADstica%20para%20ciencia%20de%20datos/Estimaci%C3%B3n%20de%20par%C3%A1metros) 
 - [Actividad: Intervalos de confianza ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Estad%C3%ADstica%20para%20ciencia%20de%20datos/Intervalos%20de%20confianza) 
 - [Actividad: Diferencia entre medias poblacionales ](https://github.com/sayuriGui/inteligencia-artificial/tree/main/Estad%C3%ADstica%20para%20ciencia%20de%20datos/Diferencia%20entre%20medias%20poblacionales) 
