@@ -103,7 +103,7 @@ Utiliza al menos 2 técnicas de preprocesamiento de acuerdo al problema como esc
             </td> 
         </tr>
         <tr>
-            <td>utiliza técnicas de regularización para mejorar el desempeño del modelo</td>
+            <td align="center">utiliza técnicas de regularización para mejorar el desempeño del modelo</td>
             <td align="center">
               <a href="https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20regresi%C3%B3n">Actividad: Problemas de regresión</a>
             </td> 
