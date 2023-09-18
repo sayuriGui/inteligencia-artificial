@@ -111,12 +111,16 @@ Utiliza al menos 2 técnicas de preprocesamiento de acuerdo al problema como esc
         <tr>
             <td rowspan=2 align="center">SEG0403</td>
             <td align="center">Explica como la solución cumple leyes, normas y principios éticos, de la industria o el ambiente del reto.</td>
-            <td align="center">.</td> 
+            <td align="center">
+              <a href="https://github.com/sayuriGui/inteligencia-artificial/tree/main/Reto">Reto</a>
+            </td> 
             <td rowspan=2 align="center">Reto</td>
         </tr>
         <tr>
             <td align="center">Explica en su repositorio cual es la normatividad correspondiente del reto o socio formador.</td>
-            <td align="center">.</td> 
+            <td align="center">
+              <a href="https://github.com/sayuriGui/inteligencia-artificial/tree/main/Reto">Reto</a>
+            </td> 
         </tr>
     </tbody>
 </table>
